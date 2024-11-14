@@ -35,7 +35,7 @@ jobs:
           outputs: |
             dist/github-red.svg
             dist/github-snake-red.svg?palette=github-dark
-            dist/ocean.svg?color_snake=orange&color_dots=#ffcccc,#ff6666,#ff4c4c,#cc0000,#990000
+            dist/red.svg?color_snake=orange&color_dots=#990000,#cc0000,#e60000,#ff1a1a,#ff3333
 
       # push the content of <build_dir> to a branch
       # Push the updated files to the output branch
